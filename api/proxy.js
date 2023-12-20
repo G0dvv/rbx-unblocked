@@ -1,7 +1,7 @@
 const { createProxyMiddleware } = require("http-proxy-middleware");
 
 module.exports = (req, res) => {
-  let target = "https://108.181.32.61/__cpi.php?s=UkQ2YXlSaWJuc3ZoeGR2dG04WW9LcTAzRnJmN2ladlZmem1WbUkydXhzWTlNRFFRRmovbW00RW1QYWRjb1JkMlBlTy9KNDFkSi9GTU1YR2s3VTEvNjRNb1VGSys3Y3BZbVdRcC8xM2luYVE9&r=aHR0cHM6Ly8xMDguMTgxLjMyLjYxLz9fX2Nwbz1hSFIwY0hNNkx5OXViM2N1WjJj&__cpo=1"; // Your website URL
+  let target = "https://basketcraft.net/uv/service/hvtrs8%2F-nmw%2Cge%2Frlcy-rmbnoz-aoppmrctkol%2F7369-rmbnoz"; // Your website URL
   //   if (
   //     req.url.startsWith("/api") ||
   //     req.url.startsWith("/auth") ||
