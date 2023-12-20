@@ -17,7 +17,7 @@ module.exports = (req, res) => {
     pathRewrite: {
       // rewrite request path `/backend`
       //  /backend/user/login => http://google.com/user/login
-      //   "^/backend/": "/",
+      //   "^/backend/": "/",d
     },
   })(req, res);
 };
